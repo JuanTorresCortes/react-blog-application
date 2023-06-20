@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+.mainContainer {
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid blue;
+  height: 100vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-div {
+  border: 2px solid blue;
+  width: 28em;
+  margin-top: 5em;
+}
+
+.mainContainer {
+  margin: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.form-div {
+  margin-right: 2rem;
+}
+
+.blogs {
+  width: 400px;
+}
+
+.blog-card {
+  border: 1px solid blue;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
